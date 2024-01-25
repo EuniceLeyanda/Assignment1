@@ -1,0 +1,1 @@
+"{\n  \"Database\": {\n    \"host\": \"localhost\",\n    \"port\": \"3306\",\n    \"username\": \"admin\",\n    \"password\": \"secret\"\n  },\n  \"Server\": {\n    \"address\": \"192.168.0.1\",\n    \"port\": \"8080\"\n  }\n}"
